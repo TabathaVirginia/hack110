@@ -11,3 +11,7 @@ body {
 span {
     color: red;
 }
+
+.about:hover {
+    background-color: green;
+}
