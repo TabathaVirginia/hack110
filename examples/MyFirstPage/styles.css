@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+.about {
+    border: 2px solid pink;
+    width: 200px;
+}
+#content {
+    background-color: peachpuff;
+}
+span {
+    color: red;
+}
